@@ -55,7 +55,6 @@ int main() {
         }
 
         // Posisi tetap karena elemen berikutnya
-        // otomatis menempati posisi yang sama
         if (posisi >= jumlah) {
             posisi = 0;
         }
